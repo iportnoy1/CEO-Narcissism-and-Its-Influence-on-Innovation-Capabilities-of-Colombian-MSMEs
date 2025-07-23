@@ -1,0 +1,86 @@
+﻿Empresa,ID,INF01,INF02,INF03,INF04,INF05,Prod1,Cult1,Prod3,Prod4,Prod5,Res9,Proc2,Proc3,Res8,Org1,Org2,Org3,Cult2,Mark1,Mark2,Mark3,Mark4,Res7,Res6,Res4,Cult3,Cult4,Cult5,Res5,Res2,Res3,Res1,INF06
+E1,1,Caucasia,CEO,,Mecanica,Ninguno,4,2,2,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,5,4,4,4,4,4,4,4,3,Microempresa
+E2,2,Montería,Propietario,,Comercio,Ninguno,5,3,5,5,5,3,5,3,5,5,3,4,5,5,5,5,5,5,5,5,5,5,5,5,3,3,3,Pequeña empresa
+E3,5,Purísima,Gerente de la empresa,,Agropecuario / Agroindustrial,"Colombia Productiva, Futuriza, Alianzas para la Innovación",5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,5,5,5,5,5,5,4,Mediana empresa
+E4,6,Cereté ,Propietario,,Comercio,Ninguno,4,3,3,4,4,3,4,3,4,4,3,3,3,4,3,3,4,4,4,4,3,3,3,3,4,4,3,Microempresa
+E5,7,Montería,Propietario,,Comercio,Ninguno,4,4,4,3,4,4,4,4,4,4,4,4,5,4,5,4,3,4,4,4,4,4,4,4,4,3,4,Pequeña empresa
+E6,10,San Pelayo,Gerente de la empresa,,Comercio,Ninguno,5,2,5,5,2,3,4,3,3,3,3,4,4,5,4,4,5,4,4,4,3,3,4,4,2,4,3,Microempresa
+E7,12,Montería,Propietario,,Comercio,Ninguno,5,5,3,4,4,5,5,5,5,5,2,3,3,5,3,5,5,5,5,5,5,3,5,3,3,3,3,Microempresa
+E8,13,Bogotá,CEO,,Tecnologías de la información y comunicaciones (TIC),Ninguno,5,5,5,5,5,2,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Pequeña empresa
+E9,14,Montería,CEO,,Alimentos ,Ninguno,5,4,2,3,4,5,4,5,4,2,2,3,2,5,5,2,4,3,3,3,3,4,4,2,2,3,2,Microempresa
+E10,17,Montería,"Gerente de la empresa, Representante legal",,"BAUSI Moda S.A.S pertenece al sector económico de Industria manufacturera, ya que se dedica principalmente a la confección y producción de prendas de vestir.",Ninguno,5,5,5,5,5,5,5,5,5,5,5,3,5,3,5,5,5,5,5,5,5,5,5,4,5,4,4,Mediana empresa
+E11,18,Montería,CEO,,"Servicios (consultoría, salud, educación, turismo, etc.)","Ninguno, ",5,4,5,4,4,4,4,5,4,5,3,3,3,3,3,3,3,3,4,3,3,4,3,4,3,3,3,Pequeña empresa
+E12,20,"Moñitos, Córdoba",Propietario,,Comercio,Ninguno,3,4,3,4,5,4,5,5,4,4,4,3,3,4,4,3,5,5,4,4,5,3,4,4,2,4,3,Microempresa
+E13,21,Cerete,Propietario,,Comercio,Ninguno,4,3,4,2,3,4,4,3,4,3,4,3,2,4,3,3,4,3,3,4,1,1,4,3,2,1,1,Microempresa
+E14,22,Barranquilla,"CEO, Propietario, Representante legal",,"Servicios (consultoría, salud, educación, turismo, etc.)",Ninguno,5,5,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Microempresa
+E15,23,Montería,Propietario,,Comercio,Ninguno,4,5,4,4,5,4,3,4,3,4,5,3,3,4,4,4,4,4,5,5,5,3,5,5,4,4,3,Pequeña empresa
+E16,24,Montería,Propietario,,"La empresa Central Pork MTR SAS pertenece al sector económico de Comercio, específicamente al comercio al por menor de carnes, productos cárnicos, pescados y productos de mar en establecimientos especializados.",Ninguno,4,4,3,4,5,3,5,5,5,4,3,3,3,5,5,5,5,5,5,5,4,4,4,4,3,3,3,Pequeña empresa
+E17,26,Montería,Propietario,,Transporte y logística,Ninguno,4,4,5,5,3,4,5,4,5,4,5,4,5,4,5,4,5,5,4,3,3,4,5,4,3,3,4,Microempresa
+E18,28,Medellín,Propietario,,Comercio,Ninguno,5,5,4,4,3,4,4,4,4,5,4,4,4,3,4,3,3,4,4,4,4,2,4,4,3,4,4,Pequeña empresa
+E19,29,Montería,Representante legal,,Construcción,Ninguno,4,1,2,4,3,3,3,3,3,5,5,3,2,2,2,4,4,4,4,4,5,5,5,5,5,3,3,Microempresa
+E20,32,Montería,"CEO, Propietario",,Comercio,Ninguno,4,4,5,4,3,3,5,4,3,4,4,5,4,4,3,5,3,4,4,3,3,4,4,5,4,3,3,Microempresa
+E21,33,Puerto Escondido,Propietario,,Agropecuario / Agroindustrial,Ninguno,3,2,3,2,3,2,4,3,3,2,3,2,1,2,3,1,3,2,4,2,2,2,2,4,2,2,2,Microempresa
+E22,35,Montería,CEO,SI,"Servicios (consultoría, salud, educación, turismo, etc.)",ALDEA,4,3,4,2,5,4,5,5,4,4,3,3,3,4,5,3,5,4,4,4,4,3,4,4,3,5,4,Microempresa
+E23,36,Montería,Propietario,,Preparación y venta de alimentos ,Ninguno,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,Microempresa
+E24,39,Montería,"CEO, Propietario, Gerente de la empresa, Representante legal",,Alimentos servidos a la mesa,Ninguno,4,5,4,4,5,5,5,5,5,4,3,4,4,5,3,4,5,5,5,5,4,5,4,4,4,3,3,Pequeña empresa
+E25,40,Montería,Gerente de la empresa,,Comercio,Ninguno,5,3,3,3,4,3,5,5,4,4,3,4,3,3,3,2,3,4,5,5,5,4,5,3,4,4,4,Pequeña empresa
+E26,41,Tierralta,"CEO, Propietario",,Comercio,Ninguno,3,1,1,5,4,1,5,1,5,4,1,1,4,1,4,3,5,5,5,4,4,1,5,5,1,3,2,Microempresa
+E27,42,Lorica,Propietario,,Comercio,Ninguno,5,4,4,3,4,4,5,3,4,2,2,4,3,4,3,4,3,4,3,1,4,3,2,3,2,2,2,Microempresa
+E28,43,Montería,Propietario,,venta de comidas rápidas ,Ninguno,3,5,4,4,4,3,5,5,5,5,3,3,5,4,5,5,5,5,5,4,4,4,5,5,4,4,4,Microempresa
+E29,44,San andres de sotavento ,Propietario,,Comercio,Ninguno,4,2,3,5,4,4,5,5,5,4,4,5,4,3,5,5,5,5,5,4,4,5,5,4,4,5,4,Microempresa
+E30,45,Montería,Propietario,,Comercio,Alianzas para la Innovación,4,4,4,4,4,3,4,4,4,4,5,4,4,4,4,5,4,5,4,5,5,4,4,4,4,4,4,Microempresa
+E31,46,Montería,CEO,,Industria manufacturera,Futuriza,2,1,1,1,1,4,2,1,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,2,1,2,Microempresa
+E32,47,Montería,Gerente de la empresa,,"Servicios (consultoría, salud, educación, turismo, etc.)",Futuriza,5,5,5,5,5,3,4,5,5,5,4,5,4,5,5,5,5,5,5,5,5,5,5,5,4,5,5,Microempresa
+E33,48,"Puerto libertador, cordoba ",CEO,,Comercio,Ninguno,5,4,5,5,5,5,5,5,5,5,5,3,4,4,4,5,5,5,4,5,4,4,4,4,3,4,4,Pequeña empresa
+E34,50,Montería,Propietario,,Servicio de Internet,Ninguno,5,5,4,5,5,4,5,4,5,4,4,4,4,4,5,5,5,5,5,5,5,5,5,5,4,5,4,Pequeña empresa
+E35,52,Montería,Propietario,,Comercio,Ninguno,3,1,5,5,1,2,5,2,4,5,2,1,5,5,5,5,5,4,5,4,5,5,5,2,1,2,2,Pequeña empresa
+E36,53,Montería,Propietario,,"Servicios (consultoría, salud, educación, turismo, etc.)",Ninguno,5,3,4,3,4,4,4,3,4,4,4,4,3,4,4,4,4,3,4,3,3,3,3,3,4,4,4,Microempresa
+E37,55,Bogotá,"Propietario, Representante legal",,"Servicios (consultoría, salud, educación, turismo, etc.)",Ninguno,3,3,3,2,4,2,4,1,2,3,3,4,3,1,1,4,4,3,4,4,4,4,4,4,1,3,2,Microempresa
+E38,56,Cúcuta ,Propietario,,Sector de servicios ,Ninguno,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,4,4,Mediana empresa
+E39,57,Montería,CEO,,"Servicios (consultoría, salud, educación, turismo, etc.)",Futuriza,3,4,5,4,5,2,4,4,4,4,3,3,4,4,4,4,4,3,4,4,4,4,4,4,3,4,4,Microempresa
+E40,58,San Jacinto Bolivar,Representante legal,,Social,Alianzas para la Innovación,5,5,5,5,5,4,2,4,5,5,5,4,4,4,4,5,5,5,5,5,5,5,5,5,4,5,4,Microempresa
+E41,59,Cúcuta ,Gerente de la empresa,,Sector de servicios ,Ninguno,5,4,4,4,4,4,4,5,5,5,3,4,4,4,4,4,4,4,5,5,4,4,4,3,3,4,4,Mediana empresa
+E42,60,Valencia ,CEO,,Comercio,Ninguno,5,5,5,5,5,1,5,5,1,5,5,2,5,5,4,5,5,5,5,5,5,5,5,5,5,5,5,Microempresa
+E43,61,Montería,Propietario,,Agropecuario / Agroindustrial,Ninguno,3,3,4,3,3,3,4,2,3,4,2,3,3,4,5,2,5,5,5,3,3,3,3,1,1,2,3,Pequeña empresa
+E44,62,Cartagena,"CEO, Propietario",,"Servicios (consultoría, salud, educación, turismo, etc.)",Fondo emprender ,5,5,4,5,5,5,5,5,5,5,4,4,5,5,4,5,5,5,5,5,5,5,5,5,4,5,4,Microempresa
+E45,63,Cerete,CEO,,Comercio,Ninguno,3,4,4,4,3,2,4,4,4,4,3,3,3,3,3,4,3,3,4,4,4,4,4,4,4,3,3,Pequeña empresa
+E46,64,Planeta Rica ,Propietario,,Comercio,Ninguno,4,1,4,4,3,1,4,1,4,5,1,5,4,1,1,1,5,1,3,3,4,4,5,4,1,4,1,Microempresa
+E47,66,Medellín,Gerente de la empresa,,Agropecuario / Agroindustrial,Ninguno,4,3,2,4,2,4,1,2,4,3,3,4,2,4,5,1,2,4,3,5,2,3,4,2,3,2,2,Microempresa
+E48,67,Montería,Propietario,,Comercio,Ninguno,3,2,3,3,3,2,3,1,3,2,2,2,2,2,3,4,3,3,3,4,3,3,3,3,3,1,1,Microempresa
+E49,68,Medellín,Gerente de la empresa,,Industria manufacturera,Ninguno,3,2,3,2,1,3,2,2,1,2,2,3,3,1,2,2,2,2,2,1,2,1,1,1,3,2,2,Mediana empresa
+E50,69,Bogotá,Propietario,,Construcción,Ninguno,5,1,4,5,3,1,5,3,5,4,2,3,4,3,4,3,5,4,4,5,4,5,5,2,3,4,2,Pequeña empresa
+E51,70,Montería,Representante legal,,Finanzas y seguros,Ninguno,4,2,4,5,5,5,4,3,4,5,5,2,5,5,4,3,4,5,4,3,2,4,3,3,5,4,5,Pequeña empresa
+E52,71,Montería,Propietario,,SALUD,Ninguno,5,4,4,5,4,5,5,5,4,5,2,4,4,5,5,5,5,4,5,4,4,3,4,3,3,4,3,Pequeña empresa
+E53,73,Coveñas,Propietario,,Comercio,Ninguno,3,4,4,5,4,4,3,1,3,4,5,3,4,4,2,4,3,3,4,4,5,5,5,5,4,5,4,Microempresa
+E54,74,Montería,"CEO, Propietario, Gerente de la empresa, Representante legal",,Alimentos,Ninguno,5,5,4,4,4,3,3,5,5,4,3,3,3,3,5,5,5,5,4,5,5,5,5,3,1,3,3,Microempresa
+E55,75,Montería,CEO,,"Servicios (consultoría, salud, educación, turismo, etc.)","Futuriza, Alianzas para la Innovación",4,4,4,4,4,2,3,4,4,4,4,4,4,4,4,4,4,4,4,5,4,4,4,4,4,4,4,Microempresa
+E56,80,Cucuta ,Gerente de la empresa,,Bar,Ninguno,5,5,5,5,5,4,4,4,4,4,3,4,4,3,5,4,5,4,5,4,4,5,4,5,4,3,4,Mediana empresa
+E57,81,Montería,"Propietario, Gerente de la empresa",,Comercio,Ninguno,4,4,4,4,1,1,3,2,3,2,1,3,3,3,3,3,3,2,3,3,3,1,2,2,2,2,2,Pequeña empresa
+E58,83,Montería,Propietario,,Agropecuario / Agroindustrial,Ninguno,4,4,4,4,5,4,5,3,5,3,3,4,3,3,4,2,5,5,5,4,4,4,4,5,3,4,3,Microempresa
+E59,84,Montería,"CEO, Propietario, Gerente de la empresa, Representante legal",,Comercio,Colombia Productiva,5,1,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Pequeña empresa
+E60,86,Montería,CEO,,Productos de aseo,Alianzas para la Innovación,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Microempresa
+E61,87,Montería,"CEO, Propietario, Representante legal",,Tecnologías de la información y comunicaciones (TIC),"ALDEA, Colombia Productiva",5,5,5,3,4,4,3,3,4,4,4,4,3,3,4,4,4,4,5,5,4,3,4,4,4,5,5,Microempresa
+E62,89,Cali,"CEO, Representante legal",,Comercio,ALDEA,4,4,4,4,4,3,4,3,3,2,2,2,4,4,4,4,4,4,3,2,2,3,3,3,2,2,2,Microempresa
+E63,90,Montería,Propietario,,Comidas rápidas ,Ninguno,4,5,3,2,2,3,5,3,4,4,3,3,3,5,5,3,3,3,5,1,1,2,2,5,5,2,3,Microempresa
+E64,92,Montería,"CEO, Gerente de la empresa",,Alimentos,Ninguno,3,4,3,3,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,5,4,3,4,3,Microempresa
+E65,93,Cereté Córdoba ,Representante legal,,Industria manufacturera,Ninguno,4,4,2,4,5,2,5,5,3,3,4,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,Microempresa
+E66,94,Tierralta ,Propietario,,Comercio,Ninguno,3,4,4,4,5,4,5,5,4,4,1,4,4,4,5,5,5,4,4,4,3,3,4,4,4,4,3,Pequeña empresa
+E67,95,CERETE CORDOBA,"Propietario, Gerente de la empresa, Representante legal",,"Servicios (consultoría, salud, educación, turismo, etc.)",Ninguno,5,4,4,4,4,4,4,4,4,4,4,3,4,4,4,5,5,5,5,5,5,5,5,5,5,3,3,Mediana empresa
+E68,96,Montería,Representante legal,,Comercio,Ninguno,3,3,4,4,4,4,4,3,4,4,3,3,3,3,4,4,4,5,5,4,4,4,4,3,3,3,3,Microempresa
+E69,97,Cereté,Gerente de la empresa,,Comercio,Ninguno,4,3,4,4,3,3,4,4,3,4,3,3,4,4,3,3,3,4,3,4,3,2,3,3,2,3,3,Pequeña empresa
+E70,98,Montería,"Propietario, Gerente de la empresa, Representante legal",,"Servicios (consultoría, salud, educación, turismo, etc.)",Programamos locales ,5,5,5,5,5,1,5,5,5,5,3,3,5,5,5,5,5,5,5,5,4,5,5,5,5,4,4,Microempresa
+E71,99,Montería,Propietario,,Comercio,Ninguno,5,5,5,5,5,5,5,1,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Pequeña empresa
+E72,100,Barranquilla,Propietario,,Comercio,Ninguno,5,5,5,5,5,4,4,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,4,5,5,4,Microempresa
+E73,101,Montería,Propietario,,Comercio,Ninguno,4,4,5,5,4,4,4,4,5,4,4,4,4,3,5,4,4,4,5,5,5,5,5,4,5,5,4,Pequeña empresa
+E74,102,Cartagena,CEO,,Transporte y logística,Ninguno,4,4,4,5,5,3,5,5,4,3,3,4,4,1,4,2,5,3,3,4,2,3,4,1,1,1,1,Microempresa
+E75,103,Montería,Propietario,,Comercio,Ninguno,4,4,3,4,5,5,5,4,5,4,3,5,5,5,2,2,3,3,4,3,3,4,3,3,4,3,4,Microempresa
+E76,104,Montería,Representante legal,,"Servicios (consultoría, salud, educación, turismo, etc.)",Futuriza,5,3,5,3,4,1,4,5,5,5,4,5,4,2,4,4,5,4,4,4,3,3,3,4,2,4,3,Gran empresa
+E77,106,Santa cruz de lorica ,"CEO, Representante legal",,Agropecuario / Agroindustrial,Ninguno,4,3,5,5,4,4,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,5,5,5,5,5,5,Microempresa
+E78,107,Villavicencio,Gerente de la empresa,,Comercio,Ninguno,5,5,5,5,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Gran empresa
+E79,108,Montería,Representante legal,,Agropecuario / Agroindustrial,Futuriza,5,5,5,5,5,3,4,4,4,4,4,5,4,3,4,4,4,4,4,4,3,4,4,4,3,4,3,Microempresa
+E80,109,Cali,CEO,,"Servicios (consultoría, salud, educación, turismo, etc.)",Ninguno,5,4,3,4,5,4,5,5,4,4,5,5,4,4,4,5,5,4,4,4,4,4,4,5,5,4,3,Gran empresa
+E81,110,Bogotá,"CEO, Propietario, Gerente de la empresa, Representante legal",,Educación,Ninguno,4,5,5,5,3,4,4,5,5,5,5,5,5,5,5,5,5,4,5,4,3,3,5,4,4,4,4,Mediana empresa
+E82,111,Montería,CEO,,"Servicios (consultoría, salud, educación, turismo, etc.)","Colombia Productiva, Futuriza",4,5,5,5,3,3,5,5,5,5,4,3,5,5,5,5,5,5,5,5,3,4,4,4,5,5,4,Pequeña empresa
+E83,112,Montería,Gerente de la empresa,,Transporte y logística,Ninguno,5,4,5,4,5,4,5,4,4,4,3,3,4,4,4,5,4,3,4,4,4,4,3,4,3,4,3,Microempresa
+E84,113,Montería,Gerente de la empresa,,Comercio,Ninguno,5,4,5,5,2,2,4,2,2,1,1,1,4,2,4,4,2,4,2,2,4,4,4,1,4,1,1,Microempresa
+E85,114,Montería,Propietario,,Comercio,Ninguno,4,4,4,5,4,4,4,5,4,5,4,5,4,3,4,5,4,5,4,4,4,4,4,4,5,4,4,Pequeña empresa
