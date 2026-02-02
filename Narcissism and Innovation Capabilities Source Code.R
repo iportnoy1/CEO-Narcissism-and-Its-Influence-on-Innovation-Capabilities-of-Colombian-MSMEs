@@ -3,14 +3,11 @@
 library(psych); library(GPArotation); library(lavaan); library("corrplot")
 
 #Loading dataset
-npi_data_raw <- read.csv("npi40_responses.csv")
+npi_data<- read.csv("npi40_responses.csv")
 
-#Keeping only the 40-item values
-npi_data <- npi_data_raw[ , 6:ncol(npi_data_raw)]
+Negative <- read.csv("Negative.csv")
 
-Negativo <- read.csv("Negativo.csv")
-
-npi_data[ , Negativo == "No"] <- 7 - npi_data[ , Negativo == "No"]
+npi_data[ , Negative == "No"] <- 7 - npi_data[ , Negative == "No"]
 
 # Bartlett’s Test of Sphericity
 cortest.bartlett(cor(npi_data), n = nrow(npi_data))
@@ -243,6 +240,21 @@ p.mat <- cor.mtest(Data_Factors)
 corrplot(corMat, type = "upper", order = "original", p.mat = p.mat, 
          sig.level = 0.05, pch.cex = 1.1, cl.cex = 0.7, tl.cex = 0.7)
 
+tiff("Fig 1.tiff",
+     width = 7, height = 6, units = "in",
+     res = 600, compression = "lzw")
+
+corrplot(corMat,
+         type = "upper",
+         order = "original",
+         p.mat = p.mat,
+         sig.level = 0.05,
+         pch.cex = 1.1,
+         cl.cex = 0.7,
+         tl.cex = 0.7)
+
+dev.off()
+
 #################################### Innovation Capabilities Factor-wise ANOVAs
 ANOVA.Product.Innovation <- aov(Product.Innovation ~ (Authority + Exhibitionism + 
    Superiority + Vanity + Exploitativeness + Leadership)^2, data = Data_Factors)
@@ -279,3 +291,4 @@ eta_squared(ANOVA.Organizational.Innovation)
 eta_squared(ANOVA.Marketing.Innovation)
 eta_squared(ANOVA.Innovation.Culture)
 eta_squared(ANOVA.Resources.for.Innovation)
+
